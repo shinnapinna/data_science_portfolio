@@ -1,5 +1,5 @@
 # Data Science Portfolio
-Repository of data science projects showcasing my abilities to work with different data-types. All projects are presented in the form of Jupyter notebooks.
+Repository of data science projects showcasing my ability to work with different data-types. All projects are presented in the form of Jupyter notebooks.
 
 Note: Some of the data in these projects is anonymised as it is awaiting publication. Data used in the projects (accessed under data directory) is for demonstration purposes only.
 
@@ -32,4 +32,4 @@ _Tools: scikit-learn, Scipy, Pandas, Seaborn, Matplotlib_
 _Tools: PCA, UMAP, GLMM_
 
 
-If you liked what you see, want to have a chat with me about the portfolio, work opportunities, or collaborations, shoot me an email @ shinjinibasu92@gmail.com
+If you liked what you see and want to have a chat about the portfolio, work opportunities, or collaborations, shoot me an email @ shinjinibasu92@gmail.com
