@@ -1,5 +1,5 @@
 # Data Science Portfolio
-Repository of data science projects to showcasing my abilities to work with different data-types. All projects are presented in the form of Jupyter notebooks.
+Repository of data science projects showcasing my abilities to work with different data-types. All projects are presented in the form of Jupyter notebooks.
 
 Note: Some of the data in these projects is anonymised as it is awaiting publication. Data used in the projects (accessed under data directory) is for demonstration purposes only.
 
