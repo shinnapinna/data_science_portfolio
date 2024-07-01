@@ -24,7 +24,7 @@ _Tools: scikit-learn, Scipy, Pandas, Seaborn, Matplotlib_
     - [Principal Component Analysis]
     - [Generalised Linear Mixed Modelling]
       
-_Tools: PCA, Statsmodels, SciPY, GLMM_
+_Tools: PCA, Statsmodels, SPSS, SciPY, GLMM_
 
 
-If you liked what you see and want to have a chat about the portfolio, work opportunities, or collaborations, shoot me an email @ shinjinibasu92@gmail.com
+If you liked what you see and want to have a chat about the portfolio, work opportunities, or collaborations, email me @ shinjinibasu92@gmail.com
