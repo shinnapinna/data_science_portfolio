@@ -1,2 +1,2 @@
-![<width='150px'>](Imageanalysis.png)
+![<width='15'>](Imageanalysis.png)
 
