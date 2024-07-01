@@ -1,0 +1,28 @@
+Project overview:
+![image_analysis](Imageanalysis.png)
+Overview
+
+    The data provides us with measurements of the Axon Initial Segment (AIS). Panels A' and B' panel above show traces measured from raw images A & B. This data comes from multiple pre-clinical models of autism spectrum disorder and documents parameters such as location of experiment, genetic mutation (i.e. pre-clinical model), age, gender, parent and background strain. The data appears to be from the same brain region.\n",
+
+    #### Hypothesis:
+    Do mutations from different pre-clinical models (or genotypes) cause the same alterations in AIS length? Therefore, could targetting this structure be a one-size fits all model for further therapeutic intervention? What are the contributions of non-genotype factors on AIS length variance and could these explain any differences in length seen?
+    "#### EDA:\n",
+    "\n",
+    "After initial EDA we found that the data had no null values. Columns 'Brain region' & 'Species' had only 1 unique value and therefore did not offer any basis for comparison and were dropped. \n",
+    "\n",
+    "Initial descriptive statistics of the target variable 'AIS length' showed the range of values to lie between 13.48 to 46.97 $\\mu$m with a mean value of 29.43 $\\mu$m, which is within the biological range. The data also has a small negative skew (-0.036) and positive kurtosis (0.221) suggesting a near normal distribution. Outlier analysis using z-scores did detect some outliers in AIS length. However, as it is unkown how mutations might affect length and all values were within an acceptable biological range, no values were discarded.\n",
+    "\n",
+    "__Initial findings:__\n",
+    "1. Location and Gender do not have any mean differences and are therefore not analysed further.\n",
+    "2. The main interaction of interest is that of Model x Genotype.\n",
+    "3. The differences in *Strain* may be driven by a specific Model, Genotype, or both, and is further analysed as such.\n",
+    "4. Given that there are too many *Parents* to be correctly assesed in the EDA, these graphs need to be separated by Model to get a better sense of differential distribution within Model.\n",
+    "5. Similarly, *Sample-IDs* are numerous and should be viewed within Model and Genotype to see if the values from one sample are biasing any Genotype differences observed.\n",
+    "6. Finally, *Age* 32 seems to have shorter average AIS lenghts compared to the other ages. This should be viewed in the context of class imbalance within Ages, Genotype and Model.\n",
+
+    "#### Overall Assessment:
+
+    #### Next steps
+
+    "Having run the initial comparisons of factors, to accurately attribute any differences in length purely to genotype we must run a mixed effects model with the appropriate fixed and random variables. To see an example of this run within the Fmr1 model please see the AIS_GLMM notebook."
+   
