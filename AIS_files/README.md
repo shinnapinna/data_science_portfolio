@@ -9,5 +9,6 @@ Panels A' and B' panel show AIS traces measured from raw images A & B. All image
 
 ### Project 1:
   - [AIS_Multiple_models_new](https://github.com/shinnapinna/data_science_portfolio/blob/f21f4adf0116efee63b0b67d6dc0bb5cdcf48f70/AIS_files/AIS_Multiple_models_new.ipynb): Compares the effects of different genetic mutations implicated in autism spectrum disorder on the AIS length.
-- ### Project 2:
+
+### Project 2:
   - [AIS_GLMM_new](https://github.com/shinnapinna/data_science_portfolio/blob/f21f4adf0116efee63b0b67d6dc0bb5cdcf48f70/AIS_files/AIS_GLMM_new.ipynb) Runs a statistical comparison of the effect of the same genetic mutation across different brain regions.
