@@ -1,10 +1,6 @@
 # Project Overview:
 
-The data for the two notebooks in this folder looks at measurements of the Axon Initial Segment (AIS) length. 
-
-Data collection was undertaken during my PhD and a represenations of raw images and measurement collection are show in the image below. 
-
-Panels A' and B' panel show AIS traces measured from raw images A & B. All images were analysed using FIJI/ImageJ
+The data for the two notebooks in this folder looks at measurements of the Axon Initial Segment (AIS) length. Data collection was undertaken during my PhD and a represenations of raw images and measurement collection are show in the image below. Panels A' and B' panel show AIS traces measured from raw images A & B. All images were analysed using FIJI/ImageJ.
 ![image](Imageanalysis.png)
 
 ### Project 1:
