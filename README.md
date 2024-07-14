@@ -4,26 +4,29 @@ Repository of data science projects showcasing my ability to work with different
 #### Note: 
 Data used in the projects is for demonstration purposes only as some of it is awaiting publication. As such it has been anonymised and is unavailable for download.
 
-## Contents
+## Projects:
 
-- ### Exploratory Data Analysis:
-    - [Large Scale Float Data](https://github.com/shinnapinna/data_science_portfolio/blob/f21f4adf0116efee63b0b67d6dc0bb5cdcf48f70/AIS_files/AIS_Multiple_models_new.ipynb)
-    - [Text / String Data](https://github.com/shinnapinna/data_science_portfolio/blob/3eb99740cab94b26bdb80ea69f45213673fb83a7/Bake-Off/GBBO_EDA.ipynb)
+### [Axon Initial Segment:](https://github.com/shinnapinna/data_science_portfolio/tree/05f3017545c6eb12bf6dc40768ebb0cf5ba4b7a0/AIS_files) 
+  - Exploratory Data Analysis of Large Scale Float Data
+  - Jupyter Notebook Reports
+  - Data Visualisation
+  - Linear Mixed Effects Modelling
+  - Ordinary Least Squares Model with Type III ANOVAs
 
-_Tools: Pandas, Numpy, Seaborn and Matplotlib_
+_Tools: Pandas, Numpy, Seaborn, Matplotlib, Statsmodels, SPSS, SciPY, scikit-learn_
 
-- ### Machine Learning Models:
-    - [ML Classification with Logistic Regression](https://github.com/shinnapinna/data_science_portfolio/blob/f21f4adf0116efee63b0b67d6dc0bb5cdcf48f70/Ephys%20files/ML%20Classification%20of%20Ephys%20Data.ipynb)
-    - [ML Classification with Random Forests](https://github.com/shinnapinna/data_science_portfolio/blob/f21f4adf0116efee63b0b67d6dc0bb5cdcf48f70/Ephys%20files/ML%20Classification%20with%20PCA.ipynb)
-    - [ML Clustering with KMeans and Hierarchical Clustering](https://github.com/shinnapinna/data_science_portfolio/blob/f21f4adf0116efee63b0b67d6dc0bb5cdcf48f70/Ephys%20files/ML%20Clustering.ipynb)
+### [Electrophysiological Properties of Cells:](https://github.com/shinnapinna/data_science_portfolio/tree/05f3017545c6eb12bf6dc40768ebb0cf5ba4b7a0/Ephys%20files)
+- Supervised Machine Learning with Logisitic Regression and Random Forrest Classifiers
+- Unsupervised Machine Learning with KMeans and Hierarchical Clustering
+- Dimensionality Reduction with Principal Component Analysis
 
 _Tools: scikit-learn, Scipy, Pandas, Seaborn, Matplotlib_
 
-- ### Dimensionality Reduction & Statistical Models:      
-    - [Principal Component Analysis](https://github.com/shinnapinna/data_science_portfolio/blob/f21f4adf0116efee63b0b67d6dc0bb5cdcf48f70/Ephys%20files/ML%20Classification%20with%20PCA.ipynb)
-    - [Linear Effects Mixed Modelling](https://github.com/shinnapinna/data_science_portfolio/blob/f21f4adf0116efee63b0b67d6dc0bb5cdcf48f70/AIS_files/AIS_GLMM_new.ipynb)
-      
-_Tools: PCA, Statsmodels, SPSS, SciPY, scikit-learn_
+### [Bake-Off:](https://github.com/shinnapinna/data_science_portfolio/tree/05f3017545c6eb12bf6dc40768ebb0cf5ba4b7a0/Bake-Off)
+ - Exploratory Data Analysis
+ - String Data Manipulation
+ - Jupyter Notebook Reports
 
+_Tools: Pandas, Numpy, Seaborn, Matplotlib_
 
 If want to have a chat about the portfolio, work opportunities, or collaborations, email me @ shinjinibasu92@gmail.com
